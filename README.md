@@ -40,3 +40,18 @@ Aplicación que resuelve los problemas más comunes en la gestión de un hospita
 **Lo que aprendí:** a construir un sistema lo bastante robusto para que no falle ante errores. **Modalidad:** trabajo individual.
 
 [Ver repositorio](https://github.com/marsuazo/Proyecto_Parcial1_Grupo_7)
+
+### Página web de Las Peñas
+
+Página web sobre el barrio de Las Peñas, en Ecuador.
+
+**Tecnologías:** HTML, CSS y GitHub.
+
+**Características principales:**
+
+- Uso de plantillas.
+- Maquetación con HTML y estilos con CSS.
+
+**Lo que aprendí:** a aplicar plantillas para construir páginas web. **Modalidad:** trabajo grupal.
+
+[Ver repositorio](https://github.com/AndyCobena/las-penas)
