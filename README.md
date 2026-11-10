@@ -55,6 +55,20 @@ Página web sobre el barrio de Las Peñas, en Ecuador.
 **Lo que aprendí:** a aplicar plantillas para construir páginas web. **Modalidad:** trabajo grupal.
 
 [Ver repositorio](https://github.com/AndyCobena/las-penas)
+### Solución del juego Tetris
+
+Programa en Pygame que calcula la mejor posición para evitar perder en Tetris.
+
+**Tecnologías:** Python y Pygame.
+
+**Características principales:**
+
+- Cálculo de la mejor ubicación de cada pieza.
+- Aplicación del álgebra lineal a la programación.
+
+**Lo que aprendí:** a usar álgebra lineal en Python para entender y resolver el juego. **Modalidad:** trabajo individual.
+
+[Ver repositorio](https://github.com/martinsuazob26-ui/Proyecto-algebra/upload)
 
 ## Áreas de interés
 
