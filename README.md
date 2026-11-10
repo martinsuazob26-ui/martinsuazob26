@@ -24,3 +24,19 @@ Soy estudiante de la **Escuela Superior Politécnica del Litoral (ESPOL)**, con 
 | Editores e IDE | Visual Studio Code, Apache NetBeans y Android Studio |
 | Ciencia de datos | Google Colab y RStudio |
 | Control de versiones | Git y GitHub |
+## Proyectos destacados
+
+### Sistema de Gestión de Hospital
+
+Aplicación que resuelve los problemas más comunes en la gestión de un hospital.
+
+**Tecnologías:** Android Studio y Java.
+
+**Características principales:**
+
+- Sistema robusto con manejo de excepciones.
+- Almacenamiento de datos en el dispositivo.
+
+**Lo que aprendí:** a construir un sistema lo bastante robusto para que no falle ante errores. **Modalidad:** trabajo individual.
+
+[Ver repositorio](https://github.com/marsuazo/Proyecto_Parcial1_Grupo_7)
