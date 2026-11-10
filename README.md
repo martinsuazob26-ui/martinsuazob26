@@ -55,3 +55,18 @@ Página web sobre el barrio de Las Peñas, en Ecuador.
 **Lo que aprendí:** a aplicar plantillas para construir páginas web. **Modalidad:** trabajo grupal.
 
 [Ver repositorio](https://github.com/AndyCobena/las-penas)
+
+## Áreas de interés
+
+### Machine Learning
+
+Considero que el futuro está en la inteligencia artificial, y comprender el aprendizaje automático es un paso clave para llegar ahí.
+
+### Backend
+
+Aprender cómo se manejan y almacenan los datos para usarlos después es fundamental en la carrera que sigo.
+
+## Contacto
+
+- **GitHub:** [martinsuazob26-ui](https://github.com/martinsuazob26-ui)
+- **Correo:** [marsuazo@outlook.com](mailto:marsuazo@outlook.com)
